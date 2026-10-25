@@ -1,0 +1,163 @@
+{
+  "runId": "2026-10-25T06-06-26",
+  "startedAt": "2026-10-25T06:06:26.248Z",
+  "gitSha": "8f298abca",
+  "promptSet": "v1",
+  "arenaAsOf": "2026-10-25",
+  "args": {
+    "models": [
+      "grok-imagine",
+      "recraft-v4"
+    ],
+    "prompts": [
+      "product"
+    ],
+    "reps": 1,
+    "concurrency": 1,
+    "maxUsd": 25,
+    "dryRun": false
+  },
+  "records": [
+    {
+      "model": "grok-imagine",
+      "config": "1K",
+      "settings": {
+        "resolution": "1K"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a171aa-e396-7c60-91ed-30ef4d436f1a",
+      "inferenceS": 52.12600016593933,
+      "wallS": 53.80982229200001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 287697,
+      "format": "jpeg",
+      "file": "grok-imagine__1k__product__1.jpeg"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "2K",
+      "settings": {
+        "resolution": "2K"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171ab-bd56-7151-8cd3-8a04332eb4a6",
+      "inferenceS": 20.496999979019165,
+      "wallS": 21.655684499999996,
+      "width": 2048,
+      "height": 2048,
+      "bytes": 6209284,
+      "format": "png",
+      "file": "grok-imagine__2k__product__1.png"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "raster",
+      "settings": {
+        "output": "raster"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-image",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a171ac-20dc-7081-a06d-f488e378f5cd",
+      "inferenceS": 164.05099987983704,
+      "wallS": 164.970831458,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1639864,
+      "format": "webp",
+      "file": "recraft-v4__raster__product__1.webp"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "vector",
+      "settings": {
+        "output": "vector"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-vector",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171ae-b198-7413-8849-fe39d399bd6f",
+      "inferenceS": 75.32800006866455,
+      "wallS": 76.2645895,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1208437,
+      "format": "svg",
+      "file": "recraft-v4__vector__product__1.svg"
+    }
+  ],
+  "finishedAt": "2026-10-25T06:11:55.890Z",
+  "summary": [
+    {
+      "model": "grok-imagine",
+      "config": "1K",
+      "runId": "2026-10-25T06-06-26",
+      "n": 1,
+      "ok": 1,
+      "medianInferenceS": 52.12600016593933,
+      "medianWallS": 53.80982229200001,
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "width": 1024,
+      "height": 1024,
+      "elo": 1166
+    },
+    {
+      "model": "grok-imagine",
+      "config": "2K",
+      "runId": "2026-10-25T06-06-26",
+      "n": 1,
+      "ok": 1,
+      "medianInferenceS": 20.496999979019165,
+      "medianWallS": 21.655684499999996,
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "width": 2048,
+      "height": 2048,
+      "elo": 1166
+    },
+    {
+      "model": "recraft-v4",
+      "config": "raster",
+      "runId": "2026-10-25T06-06-26",
+      "n": 1,
+      "ok": 1,
+      "medianInferenceS": 164.05099987983704,
+      "medianWallS": 164.970831458,
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "recraft-v4",
+      "config": "vector",
+      "runId": "2026-10-25T06-06-26",
+      "n": 1,
+      "ok": 1,
+      "medianInferenceS": 75.32800006866455,
+      "medianWallS": 76.2645895,
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

@@ -1,0 +1,5323 @@
+{
+  "runId": "2026-10-25T05-41-52",
+  "startedAt": "2026-10-25T05:41:52.524Z",
+  "gitSha": "97f459f8d",
+  "promptSet": "v1",
+  "arenaAsOf": "2026-10-25",
+  "args": {
+    "reps": 1,
+    "concurrency": 4,
+    "maxUsd": 20,
+    "dryRun": false
+  },
+  "records": [
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking minimal",
+      "settings": {
+        "resolution": "0.5K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a17194-65bc-7ae3-bc7a-5f6e85be1b26",
+      "inferenceS": 7.86299991607666,
+      "wallS": 9.173705958000001,
+      "width": 448,
+      "height": 592,
+      "bytes": 87653,
+      "format": "jpeg",
+      "file": "nano-banana-2__0.5k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking minimal",
+      "settings": {
+        "resolution": "0.5K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a17194-65bc-7ae3-bc7a-5f57ccb29bf9",
+      "inferenceS": 8.10699987411499,
+      "wallS": 9.975064041,
+      "width": 592,
+      "height": 448,
+      "bytes": 95947,
+      "format": "jpeg",
+      "file": "nano-banana-2__0.5k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking minimal",
+      "settings": {
+        "resolution": "0.5K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a17194-65b6-74b2-8d8b-55e684e999e7",
+      "inferenceS": 8.7260000705719,
+      "wallS": 9.974604958,
+      "width": 688,
+      "height": 384,
+      "bytes": 106173,
+      "format": "jpeg",
+      "file": "nano-banana-2__0.5k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking high",
+      "settings": {
+        "resolution": "0.5K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.062,
+      "credits": 7936,
+      "requestId": "01a17194-65bc-7762-81ac-5a8dbe0357f8",
+      "inferenceS": 14.38100004196167,
+      "wallS": 16.271207125,
+      "width": 592,
+      "height": 448,
+      "bytes": 92412,
+      "format": "jpeg",
+      "file": "nano-banana-2__0.5k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking minimal",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a17194-92d0-7700-ac4f-8ffa2c75d54e",
+      "inferenceS": 10.0239999294281,
+      "wallS": 10.9778575,
+      "width": 1200,
+      "height": 896,
+      "bytes": 300438,
+      "format": "jpeg",
+      "file": "nano-banana-2__1k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking high",
+      "settings": {
+        "resolution": "0.5K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.062,
+      "credits": 7936,
+      "requestId": "01a17194-8f24-70b2-b10c-1be928042ade",
+      "inferenceS": 13.424999952316284,
+      "wallS": 14.576466500000002,
+      "width": 448,
+      "height": 592,
+      "bytes": 84300,
+      "format": "jpeg",
+      "file": "nano-banana-2__0.5k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking minimal",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a17194-ab91-7bf3-be28-64e7abcbd820",
+      "inferenceS": 9.736000061035156,
+      "wallS": 10.9255415,
+      "width": 896,
+      "height": 1200,
+      "bytes": 378586,
+      "format": "jpeg",
+      "file": "nano-banana-2__1k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking high",
+      "settings": {
+        "resolution": "0.5K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.062,
+      "credits": 7936,
+      "requestId": "01a17194-91f0-7853-a3a2-b232496f1b79",
+      "inferenceS": 18.69099998474121,
+      "wallS": 19.580395750000005,
+      "width": 688,
+      "height": 384,
+      "bytes": 106840,
+      "format": "jpeg",
+      "file": "nano-banana-2__0.5k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking minimal",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a17194-c6a7-7570-832e-90ce9af7a2a7",
+      "inferenceS": 9.825000047683716,
+      "wallS": 11.083947000000004,
+      "width": 1376,
+      "height": 768,
+      "bytes": 307017,
+      "format": "jpeg",
+      "file": "nano-banana-2__1k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking high",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.082,
+      "credits": 10496,
+      "requestId": "01a17194-e0d8-7bc1-8aa3-f25fcd081a92",
+      "inferenceS": 12.219000101089478,
+      "wallS": 13.824264292,
+      "width": 896,
+      "height": 1200,
+      "bytes": 271737,
+      "format": "jpeg",
+      "file": "nano-banana-2__1k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking high",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.082,
+      "credits": 10496,
+      "requestId": "01a17194-e522-78d1-8bd7-ba54a9533790",
+      "inferenceS": 16.44600009918213,
+      "wallS": 17.390652582999994,
+      "width": 1376,
+      "height": 768,
+      "bytes": 327229,
+      "format": "jpeg",
+      "file": "nano-banana-2__1k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking high",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.082,
+      "credits": 10496,
+      "requestId": "01a17194-cf5f-7323-846d-eadefdf7ed06",
+      "inferenceS": 25.79699993133545,
+      "wallS": 26.428487792,
+      "width": 1200,
+      "height": 896,
+      "bytes": 378798,
+      "format": "jpeg",
+      "file": "nano-banana-2__1k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking minimal",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.12,
+      "credits": 15360,
+      "requestId": "01a17194-fc10-71d1-ac36-d907a4aeb9ae",
+      "inferenceS": 20.240000009536743,
+      "wallS": 20.939226041,
+      "width": 2400,
+      "height": 1792,
+      "bytes": 1137373,
+      "format": "jpeg",
+      "file": "nano-banana-2__2k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking minimal",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.12,
+      "credits": 15360,
+      "requestId": "01a17195-1ecf-7360-8020-a99782a4dcbd",
+      "inferenceS": 21.84600019454956,
+      "wallS": 23.81315095799999,
+      "width": 1792,
+      "height": 2400,
+      "bytes": 966185,
+      "format": "jpeg",
+      "file": "nano-banana-2__2k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking minimal",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.12,
+      "credits": 15360,
+      "requestId": "01a17195-319c-7a40-9dd7-985b6c1c9c52",
+      "inferenceS": 20.04700016975403,
+      "wallS": 20.912983416999996,
+      "width": 2752,
+      "height": 1536,
+      "bytes": 576605,
+      "format": "jpeg",
+      "file": "nano-banana-2__2k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking high",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.122,
+      "credits": 15616,
+      "requestId": "01a17195-407a-78b0-8afa-7b5c38703224",
+      "inferenceS": 27.19000005722046,
+      "wallS": 27.89186012499999,
+      "width": 2400,
+      "height": 1792,
+      "bytes": 1175195,
+      "format": "jpeg",
+      "file": "nano-banana-2__2k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking high",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.122,
+      "credits": 15616,
+      "requestId": "01a17195-5819-7a83-9917-003c000a37a4",
+      "inferenceS": 25.76699995994568,
+      "wallS": 26.568657708000007,
+      "width": 1792,
+      "height": 2400,
+      "bytes": 986557,
+      "format": "jpeg",
+      "file": "nano-banana-2__2k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking high",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.122,
+      "credits": 15616,
+      "requestId": "01a17195-873a-7720-b099-c0807a276e98",
+      "inferenceS": 27.52300000190735,
+      "wallS": 28.319344458000007,
+      "width": 2752,
+      "height": 1536,
+      "bytes": 914143,
+      "format": "jpeg",
+      "file": "nano-banana-2__2k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking minimal",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.16,
+      "credits": 20480,
+      "requestId": "01a17195-8d8e-75f3-9d69-18bae4f1c4c2",
+      "inferenceS": 32.93300008773804,
+      "wallS": 34.22359600000001,
+      "width": 4800,
+      "height": 3584,
+      "bytes": 3414136,
+      "format": "jpeg",
+      "file": "nano-banana-2__4k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking minimal",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.16,
+      "credits": 20480,
+      "requestId": "01a17195-b850-7750-8c56-543f70c3f7a0",
+      "inferenceS": 32.71500015258789,
+      "wallS": 33.356365083,
+      "width": 3584,
+      "height": 4800,
+      "bytes": 2412235,
+      "format": "jpeg",
+      "file": "nano-banana-2__4k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking minimal",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.16,
+      "credits": 20480,
+      "requestId": "01a17195-caa5-7ad0-aa20-0106e5328ec1",
+      "inferenceS": 30.479000091552734,
+      "wallS": 31.332071624999998,
+      "width": 5504,
+      "height": 3072,
+      "bytes": 2637130,
+      "format": "jpeg",
+      "file": "nano-banana-2__4k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking minimal",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-52cf-7692-8962-90cbfd5c7db8",
+      "inferenceS": 7.958000183105469,
+      "wallS": 9.295116375000012,
+      "width": 1200,
+      "height": 896,
+      "bytes": 281095,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking minimal",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-7f29-7d51-ae1d-a2d012318d53",
+      "inferenceS": 8.702000141143799,
+      "wallS": 9.822472042000008,
+      "width": 896,
+      "height": 1200,
+      "bytes": 274547,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking high",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.162,
+      "credits": 20736,
+      "requestId": "01a17195-ffd1-7292-9e9d-b883b1a81c21",
+      "inferenceS": 42.818000078201294,
+      "wallS": 43.57978012499999,
+      "width": 4800,
+      "height": 3584,
+      "bytes": 2970447,
+      "format": "jpeg",
+      "file": "nano-banana-2__4k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking high",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.162,
+      "credits": 20736,
+      "requestId": "01a17196-1f52-7f60-8386-5ebbcf1087fa",
+      "inferenceS": 37.062000036239624,
+      "wallS": 38.23156162500002,
+      "width": 3584,
+      "height": 4800,
+      "bytes": 2268055,
+      "format": "jpeg",
+      "file": "nano-banana-2__4k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking minimal",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-ae81-7631-831b-b1ba6c94ef2d",
+      "inferenceS": 11.022000074386597,
+      "wallS": 12.024577208000002,
+      "width": 1376,
+      "height": 768,
+      "bytes": 151143,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking high",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/nano-banana-2",
+      "vendorUsd": 0.162,
+      "credits": 20736,
+      "requestId": "01a17196-4696-7251-bc16-78fc46d7b206",
+      "inferenceS": 39.24399995803833,
+      "wallS": 40.134244750000015,
+      "width": 5504,
+      "height": 3072,
+      "bytes": 2956401,
+      "format": "jpeg",
+      "file": "nano-banana-2__4k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking medium",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-b5d5-7b62-b89f-59c2b23e7fc2",
+      "inferenceS": 13.598999977111816,
+      "wallS": 14.80419833299998,
+      "width": 1200,
+      "height": 896,
+      "bytes": 268529,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-medium__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking medium",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-c039-7f50-8c0c-8a9fa1f845d7",
+      "inferenceS": 13.183000087738037,
+      "wallS": 14.036551875000004,
+      "width": 896,
+      "height": 1200,
+      "bytes": 282903,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-medium__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking medium",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-e59d-7fd3-bbe6-dd0fc55c0bee",
+      "inferenceS": 13.781000137329102,
+      "wallS": 14.555386666000006,
+      "width": 1376,
+      "height": 768,
+      "bytes": 272660,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-medium__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking high",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-efbe-79e3-804c-4c6f4746a528",
+      "inferenceS": 16.757999897003174,
+      "wallS": 17.840599792000024,
+      "width": 1200,
+      "height": 896,
+      "bytes": 286483,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking high",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17196-f7d4-7680-a230-00df43ccbdd8",
+      "inferenceS": 25.472999811172485,
+      "wallS": 27.280013124999996,
+      "width": 896,
+      "height": 1200,
+      "bytes": 233955,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking high",
+      "settings": {
+        "resolution": "1K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a17197-0046-7bc2-88a0-b9f58ec2cfec",
+      "inferenceS": 15.859000205993652,
+      "wallS": 25.121586999999998,
+      "width": 1376,
+      "height": 768,
+      "bytes": 241629,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__1k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking minimal",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17197-3f37-7632-b193-aca457153ca4",
+      "inferenceS": 42.412999868392944,
+      "wallS": 45.49761204199999,
+      "width": 1792,
+      "height": 2400,
+      "bytes": 830510,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking minimal",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17197-6a70-71b3-872e-91174e61a28e",
+      "inferenceS": 48.01699995994568,
+      "wallS": 49.133249582999994,
+      "width": 2752,
+      "height": 1536,
+      "bytes": 667014,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking minimal",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17197-281b-75d0-9ea9-459a13a0ac07",
+      "inferenceS": 61.08200001716614,
+      "wallS": 69.798594042,
+      "width": 2400,
+      "height": 1792,
+      "bytes": 1192656,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking medium",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17197-6a98-7142-975e-f6f5ed77a6d1",
+      "inferenceS": 63.83800005912781,
+      "wallS": 64.82074629200002,
+      "width": 2400,
+      "height": 1792,
+      "bytes": 984665,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-medium__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking medium",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17197-fb7f-7ac0-b997-d8ed7ce8a679",
+      "inferenceS": 46.11199998855591,
+      "wallS": 47.216686792000026,
+      "width": 1792,
+      "height": 2400,
+      "bytes": 889855,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-medium__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking medium",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17198-3f98-7d52-8a22-348771d5dcf7",
+      "inferenceS": 62.40499997138977,
+      "wallS": 63.327359625000014,
+      "width": 2752,
+      "height": 1536,
+      "bytes": 855037,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-medium__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking high",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17198-45a9-7831-af7e-1b7454e96055",
+      "inferenceS": 60.46499991416931,
+      "wallS": 61.685746459000015,
+      "width": 2400,
+      "height": 1792,
+      "bytes": 1137561,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking high",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17198-720d-7530-9047-048c3cd198ee",
+      "inferenceS": 77.08700013160706,
+      "wallS": 77.94135591700004,
+      "width": 1792,
+      "height": 2400,
+      "bytes": 961159,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking high",
+      "settings": {
+        "resolution": "2K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "requestId": "01a17198-bf3a-7543-8322-fd34e8b3e4da",
+      "inferenceS": 65.00500011444092,
+      "wallS": 65.896722917,
+      "width": 2752,
+      "height": 1536,
+      "bytes": 904882,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__2k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking minimal",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a17199-41ad-7e50-bfe9-ae1b35d498bc",
+      "inferenceS": 72.1470000743866,
+      "wallS": 72.98471591700002,
+      "width": 3584,
+      "height": 4800,
+      "bytes": 2987957,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking minimal",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a17199-4145-79c0-9022-f3ab0a7276bc",
+      "inferenceS": 74.29699993133545,
+      "wallS": 75.15468366599997,
+      "width": 4800,
+      "height": 3584,
+      "bytes": 2993282,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking minimal",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a17199-acc2-76d1-95ae-7b9defd25d1f",
+      "inferenceS": 93.3970000743866,
+      "wallS": 94.018359,
+      "width": 5504,
+      "height": 3072,
+      "bytes": 2617615,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking medium",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a17199-cb48-7ea0-abc1-c81c9523ec11",
+      "inferenceS": 86.72299981117249,
+      "wallS": 87.77352479200002,
+      "width": 4800,
+      "height": 3584,
+      "bytes": 2942210,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-medium__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking medium",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a1719a-73c0-7af1-b0cb-356f32415e49",
+      "inferenceS": 91.2829999923706,
+      "wallS": 92.37255658300006,
+      "width": 5504,
+      "height": 3072,
+      "bytes": 2002404,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-medium__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking medium",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "medium"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a1719a-6d5e-7590-8048-ff8e9d5e7550",
+      "inferenceS": 96.34599995613098,
+      "wallS": 97.11970520899997,
+      "width": 3584,
+      "height": 4800,
+      "bytes": 2501953,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-medium__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking minimal",
+      "settings": {
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2-lite",
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "requestId": "01a1719b-f512-7430-af97-31dba19061f6",
+      "inferenceS": 4.023000001907349,
+      "wallS": 4.719794249999977,
+      "width": 1200,
+      "height": 896,
+      "bytes": 105455,
+      "format": "jpeg",
+      "file": "nano-banana-2-lite__thinking-minimal__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking minimal",
+      "settings": {
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2-lite",
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "requestId": "01a1719c-0fc4-7251-9dd1-ea638aba5fee",
+      "inferenceS": 2.4860000610351562,
+      "wallS": 3.134179124999966,
+      "width": 896,
+      "height": 1200,
+      "bytes": 108813,
+      "format": "jpeg",
+      "file": "nano-banana-2-lite__thinking-minimal__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking minimal",
+      "settings": {
+        "thinkingLevel": "minimal"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2-lite",
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "requestId": "01a1719c-237b-73b2-b650-ebaa2743ad37",
+      "inferenceS": 2.8380000591278076,
+      "wallS": 3.8646341660000036,
+      "width": 1376,
+      "height": 768,
+      "bytes": 99296,
+      "format": "jpeg",
+      "file": "nano-banana-2-lite__thinking-minimal__diagram__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking high",
+      "settings": {
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2-lite",
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "requestId": "01a1719c-3af4-7db1-9534-7fe0f74de568",
+      "inferenceS": 6.171000003814697,
+      "wallS": 7.031604166000034,
+      "width": 1200,
+      "height": 896,
+      "bytes": 99890,
+      "format": "jpeg",
+      "file": "nano-banana-2-lite__thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking high",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a1719b-28bf-7073-97ca-d13da8aac808",
+      "inferenceS": 80.84100008010864,
+      "wallS": 82.20588920899999,
+      "width": 4800,
+      "height": 3584,
+      "bytes": 2832188,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-high__product__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking high",
+      "settings": {
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2-lite",
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "requestId": "01a1719c-5e01-7210-9b2f-b7cb70f09d20",
+      "inferenceS": 5.2799999713897705,
+      "wallS": 6.190214916999976,
+      "width": 896,
+      "height": 1200,
+      "bytes": 75761,
+      "format": "jpeg",
+      "file": "nano-banana-2-lite__thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking high",
+      "settings": {
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2-lite",
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "requestId": "01a1719c-77a3-7fd1-acab-73003cf9ec71",
+      "inferenceS": 6.567999839782715,
+      "wallS": 7.684922458000015,
+      "width": 1376,
+      "height": 768,
+      "bytes": 122620,
+      "format": "jpeg",
+      "file": "nano-banana-2-lite__thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · square_hd",
+      "settings": {
+        "quality": "low",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "requestId": "01a1719c-7d90-7b50-a4bb-d725a03c68fc",
+      "inferenceS": 6.858000040054321,
+      "wallS": 7.780083790999954,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1794076,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-square-hd__product__1.png"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking high",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a1719b-2ea7-7360-9563-269951e02823",
+      "inferenceS": 95.00300002098083,
+      "wallS": 96.41470154199993,
+      "width": 3584,
+      "height": 4800,
+      "bytes": 2454959,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-high__poster__1.jpeg"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · square_hd",
+      "settings": {
+        "quality": "low",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "requestId": "01a1719c-9e7e-7200-b10c-92f201349310",
+      "inferenceS": 8.266000032424927,
+      "wallS": 9.061076292000012,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1048396,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · square_hd",
+      "settings": {
+        "quality": "low",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "requestId": "01a1719c-a7b6-7b02-bc9f-a7c96220e1ea",
+      "inferenceS": 8.376000165939331,
+      "wallS": 9.363163291999953,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 889187,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 1920×1088",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "requestId": "01a1719c-b525-7570-a907-97824f6fed33",
+      "inferenceS": 8.067999839782715,
+      "wallS": 9.335445207999904,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3424712,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 1920×1088",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "requestId": "01a1719c-cd51-7293-aa3f-e86dcd8836f8",
+      "inferenceS": 7.5920000076293945,
+      "wallS": 8.214774000000093,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1999899,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 1920×1088",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "requestId": "01a1719c-d63e-7741-b65a-62928c3d29b9",
+      "inferenceS": 9.075000047683716,
+      "wallS": 9.757010040999972,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1590399,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 2560×1440",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "requestId": "01a1719c-e638-7340-aa5d-6364a4abbeb5",
+      "inferenceS": 13.236000061035156,
+      "wallS": 13.997710707999998,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5484468,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 2560×1440",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "requestId": "01a1719c-f97a-7d91-8173-c741f29abcf1",
+      "inferenceS": 10.108999967575073,
+      "wallS": 10.917234625000042,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2152742,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-2560-1440__poster__1.png"
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking high",
+      "settings": {
+        "resolution": "4K",
+        "thinkingLevel": "high"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "google/nano-banana-2.1",
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "requestId": "01a1719b-e831-7c13-81c5-5b07e78de310",
+      "inferenceS": 80.30100011825562,
+      "wallS": 80.87981874999997,
+      "width": 5504,
+      "height": 3072,
+      "bytes": 1890237,
+      "format": "jpeg",
+      "file": "nano-banana-2.1__4k-thinking-high__diagram__1.jpeg"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 2560×1440",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "requestId": "01a1719d-0718-7962-ac3d-ca46969e0702",
+      "inferenceS": 11.971999883651733,
+      "wallS": 12.726533832999994,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2415165,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 3840×2160",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "requestId": "01a1719d-3102-7e42-a249-38786a1f9487",
+      "inferenceS": 14.855000019073486,
+      "wallS": 15.808813083000015,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3731338,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · square_hd",
+      "settings": {
+        "quality": "medium",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "requestId": "01a1719d-44f5-7760-a029-270c5da0c701",
+      "inferenceS": 9.997999906539917,
+      "wallS": 11.010395499999984,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1807609,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 3840×2160",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "requestId": "01a1719d-335c-7d70-a21b-1d2b63693425",
+      "inferenceS": 16.60199999809265,
+      "wallS": 17.63599354199995,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4355341,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 3840×2160",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "requestId": "01a1719d-2c2d-79c3-a3a2-fcfa2d90aefb",
+      "inferenceS": 18.835999965667725,
+      "wallS": 19.71642879200005,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 10826300,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__low-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · square_hd",
+      "settings": {
+        "quality": "medium",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "requestId": "01a1719d-7bd6-7423-98f5-342fe38048b4",
+      "inferenceS": 9.88700008392334,
+      "wallS": 10.598778041000012,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1028759,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · square_hd",
+      "settings": {
+        "quality": "medium",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "requestId": "01a1719d-7cbd-7cb0-b04e-6221b90737a5",
+      "inferenceS": 11.579999923706055,
+      "wallS": 12.460777499999967,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 873504,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 1920×1088",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "requestId": "01a1719d-88ef-7d83-9088-1bde9b349bae",
+      "inferenceS": 8.508000135421753,
+      "wallS": 9.33897341700003,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3094067,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 1920×1088",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "requestId": "01a1719d-8b1c-7373-a99b-1daa7e09d2fa",
+      "inferenceS": 10.062000036239624,
+      "wallS": 10.883115250000031,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 2084374,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 1920×1088",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "requestId": "01a1719d-b09c-7533-9bc2-8a3fe82836fb",
+      "inferenceS": 8.924000024795532,
+      "wallS": 10.158086624999996,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1623749,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 2560×1440",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "requestId": "01a1719d-c0b8-7ef0-b525-94c7f6e38aad",
+      "inferenceS": 12.325000047683716,
+      "wallS": 13.384749500000034,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2397330,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 2560×1440",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "requestId": "01a1719d-c148-7532-9ca9-ad496291d0b2",
+      "inferenceS": 14.21399998664856,
+      "wallS": 14.839601208999985,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2407661,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 2560×1440",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "requestId": "01a1719d-b896-7282-bc9a-476f4210bab8",
+      "inferenceS": 13.216000080108643,
+      "wallS": 14.173584957999992,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5400482,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 3840×2160",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "requestId": "01a1719d-e5a1-7d40-82a8-1e271febb3d8",
+      "inferenceS": 15.772000074386597,
+      "wallS": 16.531742666999925,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 11878050,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 3840×2160",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "requestId": "01a1719e-0221-7bb2-b700-0af6d4f23bda",
+      "inferenceS": 14.795000076293945,
+      "wallS": 15.905299,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3879732,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 3840×2160",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "requestId": "01a1719e-06c0-7a73-b1ec-2e8b5fe3c92a",
+      "inferenceS": 17.425999879837036,
+      "wallS": 18.466857874999988,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4251826,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__medium-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · square_hd",
+      "settings": {
+        "quality": "high",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "requestId": "01a1719e-0cc7-7081-9b47-37750b69f968",
+      "inferenceS": 17.257999897003174,
+      "wallS": 18.578315124999964,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1709238,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · square_hd",
+      "settings": {
+        "quality": "high",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "requestId": "01a1719e-39a7-78f2-82b3-21e4cfc618af",
+      "inferenceS": 16.240000009536743,
+      "wallS": 17.260503041999996,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 812996,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · square_hd",
+      "settings": {
+        "quality": "high",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "requestId": "01a1719e-4e97-73c2-bbfd-f9cad9ed1d01",
+      "inferenceS": 17.156999826431274,
+      "wallS": 17.976223457999993,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 836495,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 1920×1088",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "requestId": "01a1719e-5dcc-7063-b89c-20bda490c3f0",
+      "inferenceS": 13.361999988555908,
+      "wallS": 14.095787041999982,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3450796,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 1920×1088",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "requestId": "01a1719e-6088-7c50-8419-6c429eb915fe",
+      "inferenceS": 13.058000087738037,
+      "wallS": 14.163924,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 2580420,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 1920×1088",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "requestId": "01a1719e-87b0-7702-b787-989629f79d9a",
+      "inferenceS": 16.979000091552734,
+      "wallS": 17.785666624999955,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1564280,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 2560×1440",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "requestId": "01a1719e-a05b-7f01-9016-4920bfd58027",
+      "inferenceS": 19.24400019645691,
+      "wallS": 27.225453457999976,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5480078,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 2560×1440",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "requestId": "01a1719e-a442-7ef0-b790-4cbb7844a5d4",
+      "inferenceS": 21.069999933242798,
+      "wallS": 27.48447929099994,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2263468,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 2560×1440",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "requestId": "01a1719e-a282-7cb1-88c3-07d041d95297",
+      "inferenceS": 21.164999961853027,
+      "wallS": 28.4842074999999,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 3371555,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 3840×2160",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "requestId": "01a1719e-d88f-78a3-a500-ad2dc1be8220",
+      "inferenceS": 19.117999792099,
+      "wallS": 20.300622124999993,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 11349359,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 3840×2160",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "requestId": "01a1719f-186a-7e73-955d-2cf28cae5c20",
+      "inferenceS": 20.32800006866455,
+      "wallS": 21.362197540999972,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 5638046,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 3840×2160",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "requestId": "01a1719f-1cd9-7f21-9e97-1e5b3d4f3888",
+      "inferenceS": 20.895999908447266,
+      "wallS": 21.55641933299997,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4250420,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__high-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · square_hd",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "requestId": "01a1719f-23c6-7de1-8866-d6c2af669f85",
+      "inferenceS": 22.8510000705719,
+      "wallS": 24.002093417000026,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1774991,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · square_hd",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "requestId": "01a1719f-389e-76e1-b987-47bf256d0d2f",
+      "inferenceS": 23.536999940872192,
+      "wallS": 24.919366625000023,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 958716,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 1920×1088",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "requestId": "01a1719f-818d-7da0-94b0-07c806691e47",
+      "inferenceS": 16.082000017166138,
+      "wallS": 17.195739500000027,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 2875441,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 1920×1088",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "requestId": "01a1719f-8e91-7ae2-ab4c-cddc71fcc086",
+      "inferenceS": 18.503999948501587,
+      "wallS": 19.432201916999997,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1404404,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · square_hd",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "requestId": "01a1719f-7a78-75d3-87e2-ada18c431f73",
+      "inferenceS": 25.01200008392334,
+      "wallS": 25.661361291000038,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 917521,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 1920×1088",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "requestId": "01a1719f-a3ff-79c2-8f65-03438ed521a4",
+      "inferenceS": 19.16000008583069,
+      "wallS": 20.48188820799999,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1522419,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 2560×1440",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "requestId": "01a1719f-d2e7-7a31-a400-f2f181d12197",
+      "inferenceS": 20.15000009536743,
+      "wallS": 20.89415262499999,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5155582,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 2560×1440",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "requestId": "01a1719f-e5a5-7290-84d3-f45291df7477",
+      "inferenceS": 19.687999963760376,
+      "wallS": 20.715022084000054,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2375167,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 2560×1440",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "requestId": "01a1719f-e8db-7082-bd06-6c3698f226ba",
+      "inferenceS": 22.94100022315979,
+      "wallS": 23.58108058300009,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2277125,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 3840×2160",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "requestId": "01a1719f-ffb8-7302-bce9-ea6c1f527ac1",
+      "inferenceS": 23.972000122070312,
+      "wallS": 25.064012834000053,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 11537503,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 3840×2160",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "requestId": "01a171a0-34cc-7351-b7bb-03c1d2ed30d0",
+      "inferenceS": 24.33400011062622,
+      "wallS": 25.10928229100001,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3423343,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 3840×2160",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "requestId": "01a171a0-433e-7560-b067-6c6268e1e888",
+      "inferenceS": 24.27500009536743,
+      "wallS": 25.618823625000076,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4471985,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__xhigh-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · square_hd",
+      "settings": {
+        "quality": "max",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "requestId": "01a171a0-518d-7750-aa53-92e31ffdf6f0",
+      "inferenceS": 48.866000175476074,
+      "wallS": 49.791851917000024,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1684305,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · square_hd",
+      "settings": {
+        "quality": "max",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "requestId": "01a171a0-7740-75c3-89af-cdb5c52b9b75",
+      "inferenceS": 47.115999937057495,
+      "wallS": 47.94391016700003,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1286916,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 1920×1088",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "requestId": "01a171a0-b509-7891-9dfb-92f710d73efc",
+      "inferenceS": 31.528000116348267,
+      "wallS": 35.03454191699996,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3169101,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · square_hd",
+      "settings": {
+        "quality": "max",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "requestId": "01a171a0-a8ac-7a80-a6a8-a880067bc0c1",
+      "inferenceS": 43.54800009727478,
+      "wallS": 46.0844411670001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 898658,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 1920×1088",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "requestId": "01a171a1-204b-79d2-93fe-caf7b7647bde",
+      "inferenceS": 27.881999969482422,
+      "wallS": 28.784521749999957,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1357918,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 1920×1088",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "requestId": "01a171a1-3d3a-73f3-b5f2-d33cf7625198",
+      "inferenceS": 27.717000007629395,
+      "wallS": 28.71961716699996,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1575431,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 2560×1440",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "requestId": "01a171a1-49d5-7451-8d5f-1c3fc1b8e1e0",
+      "inferenceS": 35.10800004005432,
+      "wallS": 35.97959212500008,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5141068,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 2560×1440",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "requestId": "01a171a1-66d4-7df0-8e93-cbd409afc15c",
+      "inferenceS": 32.621999979019165,
+      "wallS": 33.29938458399999,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 4151637,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 2560×1440",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "requestId": "01a171a1-9f51-7d81-9d77-386cd54527b3",
+      "inferenceS": 31.79800009727478,
+      "wallS": 32.616691584000016,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2406096,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · square_hd",
+      "settings": {
+        "quality": "low",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "requestId": "01a171a2-2bff-7a23-a6f8-c233303c0ad4",
+      "inferenceS": 9.972000122070312,
+      "wallS": 10.880079583000043,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 2084668,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 3840×2160",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "requestId": "01a171a1-ba89-7501-bf57-832cb1a9b6a3",
+      "inferenceS": 38.69199991226196,
+      "wallS": 39.630595792000065,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 12484488,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 3840×2160",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "requestId": "01a171a1-e651-75e0-a787-a2ad77f669dd",
+      "inferenceS": 32.830000162124634,
+      "wallS": 34.1776860000001,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3824829,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 3840×2160",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/flare/text-to-image",
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "requestId": "01a171a1-f8e7-7b42-a21b-e236332ccc3e",
+      "inferenceS": 36.06100010871887,
+      "wallS": 37.29778408400004,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4525029,
+      "format": "png",
+      "file": "gpt-image-2.5-flare__max-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · square_hd",
+      "settings": {
+        "quality": "low",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "requestId": "01a171a2-6c1c-7563-972a-0da5d87ba5d1",
+      "inferenceS": 9.63700008392334,
+      "wallS": 10.381827541000094,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 876645,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · square_hd",
+      "settings": {
+        "quality": "low",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "requestId": "01a171a2-73e1-7ae3-99ca-9069f0b989cb",
+      "inferenceS": 10.549999952316284,
+      "wallS": 11.79041845899995,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 836814,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 1920×1088",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "requestId": "01a171a2-7b51-7160-9a47-56e2c192d1c0",
+      "inferenceS": 12.178999900817871,
+      "wallS": 13.345233165999991,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3142061,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 1920×1088",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "requestId": "01a171a2-99e9-7cb0-9f72-2f2f16edfa7d",
+      "inferenceS": 9.367000102996826,
+      "wallS": 10.196309875000036,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1555045,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 1920×1088",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "requestId": "01a171a2-a080-79b1-81c6-eb2a48ffc3cc",
+      "inferenceS": 10.207000017166138,
+      "wallS": 10.836588875000016,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1459479,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 2560×1440",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "requestId": "01a171a2-acca-7e30-962c-ac8147f97ab8",
+      "inferenceS": 13.86300015449524,
+      "wallS": 14.799084124999936,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 6271759,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 2560×1440",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "requestId": "01a171a2-bd4d-7a63-8702-3ee3948ba34b",
+      "inferenceS": 12.77999997138977,
+      "wallS": 13.768421124999993,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2175324,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 2560×1440",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "requestId": "01a171a2-cd0d-74b2-8e4b-f6f6a07ab669",
+      "inferenceS": 12.167999982833862,
+      "wallS": 13.431254833000013,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2210285,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 3840×2160",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "requestId": "01a171a2-f815-7320-ab25-ae9abda1fdf7",
+      "inferenceS": 15.993000030517578,
+      "wallS": 17.327806542000033,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4066623,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · square_hd",
+      "settings": {
+        "quality": "medium",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "requestId": "01a171a3-0e96-7a51-9514-f6333148f830",
+      "inferenceS": 12.412000179290771,
+      "wallS": 13.880272541000043,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1854907,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 3840×2160",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "requestId": "01a171a2-d7e8-7d20-9090-31a1a2cf758e",
+      "inferenceS": 21.353999853134155,
+      "wallS": 22.16885479100002,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 12173359,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 3840×2160",
+      "settings": {
+        "quality": "low",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "requestId": "01a171a3-0001-79d1-8ed2-763ff04f1181",
+      "inferenceS": 17.865000009536743,
+      "wallS": 19.32042966600007,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3988839,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__low-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · square_hd",
+      "settings": {
+        "quality": "medium",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "requestId": "01a171a3-d441-7ca3-ba59-2e832ce31088",
+      "inferenceS": 12.46399998664856,
+      "wallS": 14.040773833000001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 836799,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · square_hd",
+      "settings": {
+        "quality": "medium",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "requestId": "01a171a3-d447-79c1-ab58-da3a8f550888",
+      "inferenceS": 13.54699993133545,
+      "wallS": 14.839005375000001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 998011,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 2560×1440",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "requestId": "01a171a3-d443-7bf2-8e88-e880a6400de6",
+      "inferenceS": 13.457000017166138,
+      "wallS": 14.838393209,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2407942,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 1920×1088",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "requestId": "01a171a3-d443-7ff0-bd4f-2f679682b1b7",
+      "inferenceS": 13.73200011253357,
+      "wallS": 15.559223709,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1477660,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 1920×1088",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "requestId": "01a171a3-d44c-7cc3-999d-7c6925195fc8",
+      "inferenceS": 13.966999769210815,
+      "wallS": 15.571823083,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1424911,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 1920×1088",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "requestId": "01a171a3-d446-7210-9f23-a298de808beb",
+      "inferenceS": 14.009000062942505,
+      "wallS": 15.560928290999998,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3391106,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 2560×1440",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "requestId": "01a171a3-d441-7103-93b2-abce3b841b01",
+      "inferenceS": 14.516000032424927,
+      "wallS": 16.424222166,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 6097026,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 2560×1440",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "requestId": "01a171a3-d445-7bd2-845d-cf5841ead30a",
+      "inferenceS": 16.96399998664856,
+      "wallS": 18.775412917,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2010561,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 3840×2160",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "requestId": "01a171a3-d441-7ca3-ba59-2e9b35554047",
+      "inferenceS": 18.652000188827515,
+      "wallS": 20.362994083,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4155112,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 1920×1088",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "requestId": "01a171a3-d441-7752-a16d-ddc9f1feea27",
+      "inferenceS": 19.32800006866455,
+      "wallS": 21.596456666999998,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1436209,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 1920×1088",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "requestId": "01a171a3-d441-73b3-93e5-cb842baa1ffb",
+      "inferenceS": 21.130000114440918,
+      "wallS": 22.68282575,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3420253,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 3840×2160",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "requestId": "01a171a3-d446-7cb3-aa46-d53472302d94",
+      "inferenceS": 20.663999795913696,
+      "wallS": 22.681131584000003,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3958074,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 3840×2160",
+      "settings": {
+        "quality": "medium",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "requestId": "01a171a3-d44c-7d63-a32a-8945cff45f27",
+      "inferenceS": 21.032999992370605,
+      "wallS": 22.675244042000003,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 12578203,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__medium-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · square_hd",
+      "settings": {
+        "quality": "high",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "requestId": "01a171a3-d447-7b23-968c-3b7434607f04",
+      "inferenceS": 27.578999996185303,
+      "wallS": 29.182103959,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 850607,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · square_hd",
+      "settings": {
+        "quality": "high",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "requestId": "01a171a3-d449-7081-bdb9-58ebe8907050",
+      "inferenceS": 28.24399995803833,
+      "wallS": 29.554445416000004,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1078802,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · square_hd",
+      "settings": {
+        "quality": "high",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "requestId": "01a171a3-d445-7ed0-8b28-74d1532e942d",
+      "inferenceS": 30.414000034332275,
+      "wallS": 32.391858833,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1730985,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 1920×1088",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "requestId": "01a171a4-1279-7433-afee-b60018b84b11",
+      "inferenceS": 24.26099991798401,
+      "wallS": 25.171374833,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1415066,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 2560×1440",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "requestId": "01a171a4-19f9-70a0-aa6e-ac7fa1abe787",
+      "inferenceS": 25.02300000190735,
+      "wallS": 25.699529915999996,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2168550,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 2560×1440",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "requestId": "01a171a4-18e8-79a0-989b-32dcd6513cb3",
+      "inferenceS": 25.579999923706055,
+      "wallS": 26.220282167,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 3372873,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 2560×1440",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "requestId": "01a171a4-171d-7061-aaac-ef86fa00412a",
+      "inferenceS": 27.467000007629395,
+      "wallS": 28.773507209,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5899790,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 3840×2160",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "requestId": "01a171a4-2501-70d1-905f-4ffc1b38b1d3",
+      "inferenceS": 27.925999879837036,
+      "wallS": 29.594704124999996,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3874207,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 3840×2160",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "requestId": "01a171a4-1b40-77b3-ae93-f47911ce447d",
+      "inferenceS": 31.115999937057495,
+      "wallS": 32.373858833,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 12401010,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 1920×1088",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "requestId": "01a171a4-4355-7ef1-b5f0-ff7c488047af",
+      "inferenceS": 26.937000036239624,
+      "wallS": 28.214620749999998,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1669305,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 1920×1088",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "requestId": "01a171a4-47a3-7812-b2ee-b9c08dbe2a64",
+      "inferenceS": 30.04100012779236,
+      "wallS": 31.319110332999998,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1511166,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 1920×1088",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "requestId": "01a171a4-414d-7230-8e07-6c4927f06379",
+      "inferenceS": 30.937000036239624,
+      "wallS": 31.843735916999997,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3217296,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 2560×1440",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "requestId": "01a171a4-4e18-7ea0-a611-214218b4c967",
+      "inferenceS": 31.832000017166138,
+      "wallS": 32.803318208,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5519196,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · square_hd",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "requestId": "01a171a4-31eb-7393-ade2-ac82260d9f86",
+      "inferenceS": 41.4520001411438,
+      "wallS": 42.11875258300001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 804218,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-square-hd__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 2560×1440",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "requestId": "01a171a4-54ec-7ad0-86c2-37468f563e61",
+      "inferenceS": 32.61299991607666,
+      "wallS": 33.674559458,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 3975355,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · square_hd",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "requestId": "01a171a4-3076-7692-b908-db40ddcda6c5",
+      "inferenceS": 44.30299997329712,
+      "wallS": 45.65398075,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1135497,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · square_hd",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "requestId": "01a171a4-275f-7360-a565-4b808bf0ad5d",
+      "inferenceS": 48.021000146865845,
+      "wallS": 48.777108917,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1769965,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-square-hd__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 2560×1440",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "requestId": "01a171a4-5df1-74f0-8e92-e938e1080df0",
+      "inferenceS": 32.67400002479553,
+      "wallS": 38.184892125,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2138637,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 3840×2160",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "requestId": "01a171a4-8ba7-7601-9168-fa8d3eaf1f60",
+      "inferenceS": 35.60700011253357,
+      "wallS": 36.441971167,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3904480,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-3840-2160__poster__1.png"
+    },
+    {
+      "model": "muse-image",
+      "config": "default",
+      "settings": {},
+      "prompt": "product",
+      "rep": 1,
+      "ok": false,
+      "endpoint": "meta/muse-image/text-to-image",
+      "vendorUsd": 0.01,
+      "credits": 1280,
+      "wallS": 0.2516411670000089,
+      "error": "403 HTTP 403: Forbidden"
+    },
+    {
+      "model": "muse-image",
+      "config": "default",
+      "settings": {},
+      "prompt": "poster",
+      "rep": 1,
+      "ok": false,
+      "endpoint": "meta/muse-image/text-to-image",
+      "vendorUsd": 0.01,
+      "credits": 1280,
+      "wallS": 0.24583245800000442,
+      "error": "403 HTTP 403: Forbidden"
+    },
+    {
+      "model": "muse-image",
+      "config": "default",
+      "settings": {},
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": false,
+      "endpoint": "meta/muse-image/text-to-image",
+      "vendorUsd": 0.01,
+      "credits": 1280,
+      "wallS": 0.25397162499999104,
+      "error": "403 HTTP 403: Forbidden"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 3840×2160",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "requestId": "01a171a4-8f11-7ec0-8f3c-1e8bd3f0e498",
+      "inferenceS": 35.19099998474121,
+      "wallS": 36.278898292,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 4020291,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 3840×2160",
+      "settings": {
+        "quality": "xhigh",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "requestId": "01a171a4-8283-7241-bb5e-a8f141098690",
+      "inferenceS": 39.3050000667572,
+      "wallS": 40.35504945899999,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 11202547,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__xhigh-3840-2160__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 3840×2160",
+      "settings": {
+        "quality": "high",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "requestId": "01a171a4-1f80-7822-af9f-9999f2ee4320",
+      "inferenceS": 91.0400002002716,
+      "wallS": 91.94144200000001,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 6672663,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__high-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 1920×1088",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "requestId": "01a171a4-cf3c-7842-8e43-b5574a18b7ab",
+      "inferenceS": 48.82100009918213,
+      "wallS": 50.086092291,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1480173,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-1920-1088__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 1920×1088",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "requestId": "01a171a4-ce07-7bb2-99c7-dbf2f68571b1",
+      "inferenceS": 57.437000036239624,
+      "wallS": 58.24141070899999,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 1536455,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-1920-1088__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 1920×1088",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 1920,
+          "height": 1088
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "requestId": "01a171a4-bce2-76f1-a9fc-b43cca380b3f",
+      "inferenceS": 63.746999979019165,
+      "wallS": 64.38269770800001,
+      "width": 1920,
+      "height": 1088,
+      "bytes": 3309303,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-1920-1088__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 2560×1440",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "requestId": "01a171a4-eb6a-7541-ba46-e26cf9aaee07",
+      "inferenceS": 52.47099995613098,
+      "wallS": 53.85948295800001,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 2198625,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-2560-1440__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 2560×1440",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "requestId": "01a171a4-e282-7d90-9e0c-86f40ac67286",
+      "inferenceS": 58.13599991798401,
+      "wallS": 59.717173041,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 3681570,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-2560-1440__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 2560×1440",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "requestId": "01a171a4-e245-7203-83ca-33af8a4ced46",
+      "inferenceS": 60.849000215530396,
+      "wallS": 61.73316208399999,
+      "width": 2560,
+      "height": 1440,
+      "bytes": 5826306,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-2560-1440__product__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 3840×2160",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "requestId": "01a171a4-f2ae-7c61-8f3c-92491c84e43b",
+      "inferenceS": 58.187000036239624,
+      "wallS": 59.013495999999996,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 7058104,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-3840-2160__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 3840×2160",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "requestId": "01a171a4-feaf-7a73-8f08-019725d1323e",
+      "inferenceS": 57.06499981880188,
+      "wallS": 58.44652495800001,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 3910144,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-3840-2160__diagram__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · square_hd",
+      "settings": {
+        "quality": "max",
+        "imageSize": "square_hd"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "requestId": "01a171a4-baad-76a3-a61c-20b238563683",
+      "inferenceS": 76.6729998588562,
+      "wallS": 77.34914474999998,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 841010,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-square-hd__diagram__1.png"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "raster",
+      "settings": {
+        "output": "raster"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-image",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a171a5-cb1a-70b1-832a-ac5f8e78acad",
+      "inferenceS": 12.308000087738037,
+      "wallS": 13.205586375,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 604396,
+      "format": "webp",
+      "file": "recraft-v4__raster__poster__1.webp"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · square_hd",
+      "settings": {
+        "quality": "max",
+        "imageSize": "square_hd"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "requestId": "01a171a4-a9d5-7691-b9d4-84f723d8a675",
+      "inferenceS": 87.82299995422363,
+      "wallS": 88.75525770799999,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1113487,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-square-hd__poster__1.png"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 3840×2160",
+      "settings": {
+        "quality": "max",
+        "imageSize": {
+          "width": 3840,
+          "height": 2160
+        }
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "requestId": "01a171a4-ed3f-7a23-a869-98e678eefb81",
+      "inferenceS": 69.92700004577637,
+      "wallS": 70.6661075,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 11198496,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-3840-2160__product__1.png"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "1K",
+      "settings": {
+        "resolution": "1K"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a171a5-38ae-7b11-81e6-d6bfd5dd3d0d",
+      "inferenceS": 56.39500021934509,
+      "wallS": 57.66033895799999,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 290677,
+      "format": "jpeg",
+      "file": "grok-imagine__1k__diagram__1.jpeg"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "1K",
+      "settings": {
+        "resolution": "1K"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a171a5-2fb2-77a1-8350-a2b7df1f0c0c",
+      "inferenceS": 61.72599983215332,
+      "wallS": 62.847833625000014,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 268892,
+      "format": "jpeg",
+      "file": "grok-imagine__1k__poster__1.jpeg"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "vector",
+      "settings": {
+        "output": "vector"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-vector",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171a5-f266-7ca1-9b58-c00ec333809a",
+      "inferenceS": 15.584999799728394,
+      "wallS": 16.302040707999986,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 128919,
+      "format": "svg",
+      "file": "recraft-v4__vector__diagram__1.svg"
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · square_hd",
+      "settings": {
+        "quality": "max",
+        "imageSize": "square_hd"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "requestId": "01a171a4-99fc-7fd2-ac16-06a51ffb5949",
+      "inferenceS": 106.56399989128113,
+      "wallS": 107.45702295800001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1801937,
+      "format": "png",
+      "file": "gpt-image-2.5-sunburst__max-square-hd__product__1.png"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "1K",
+      "settings": {
+        "resolution": "1K"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "requestId": "01a171a5-2ee0-7863-be66-6084736475d9",
+      "inferenceS": 70.9280002117157,
+      "wallS": 72.24143020800001,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 312837,
+      "format": "jpeg",
+      "file": "grok-imagine__1k__product__1.jpeg"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "2K",
+      "settings": {
+        "resolution": "2K"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171a5-a015-7531-a429-2793496409be",
+      "inferenceS": 64.64499998092651,
+      "wallS": 66.011036042,
+      "width": 2048,
+      "height": 2048,
+      "bytes": 5111395,
+      "format": "png",
+      "file": "grok-imagine__2k__poster__1.png"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "2K",
+      "settings": {
+        "resolution": "2K"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171a5-bc84-7372-93e9-7cbc7593c95c",
+      "inferenceS": 58.48200011253357,
+      "wallS": 59.30007008299999,
+      "width": 2048,
+      "height": 2048,
+      "bytes": 4698385,
+      "format": "png",
+      "file": "grok-imagine__2k__diagram__1.png"
+    },
+    {
+      "model": "grok-imagine",
+      "config": "2K",
+      "settings": {
+        "resolution": "2K"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "xai/grok-imagine-image/v2.0/text-to-image",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171a5-99b4-71f1-91c5-fedaba8dfa83",
+      "inferenceS": 76.27999997138977,
+      "wallS": 77.415380333,
+      "width": 2048,
+      "height": 2048,
+      "bytes": 6751602,
+      "format": "png",
+      "file": "grok-imagine__2k__product__1.png"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "raster",
+      "settings": {
+        "output": "raster"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-image",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a171a5-c492-7493-831c-77e0526c490c",
+      "inferenceS": 103.8289999961853,
+      "wallS": 104.677870834,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1291896,
+      "format": "webp",
+      "file": "recraft-v4__raster__product__1.webp"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "vector",
+      "settings": {
+        "output": "vector"
+      },
+      "prompt": "product",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-vector",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171a5-e596-7b00-ba11-5c3113b58de1",
+      "inferenceS": 108.31200003623962,
+      "wallS": 109.37528783300002,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 105610,
+      "format": "svg",
+      "file": "recraft-v4__vector__product__1.svg"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "vector",
+      "settings": {
+        "output": "vector"
+      },
+      "prompt": "poster",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-vector",
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "requestId": "01a171a5-ef22-74d0-9122-82debe4402ee",
+      "inferenceS": 112.5809998512268,
+      "wallS": 114.015287292,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 44447,
+      "format": "svg",
+      "file": "recraft-v4__vector__poster__1.svg"
+    },
+    {
+      "model": "recraft-v4",
+      "config": "raster",
+      "settings": {
+        "output": "raster"
+      },
+      "prompt": "diagram",
+      "rep": 1,
+      "ok": true,
+      "endpoint": "fal-ai/recraft/v4/text-to-image",
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "requestId": "01a171a5-d99f-7c30-89bd-0166c5eee208",
+      "inferenceS": 284.90900015830994,
+      "wallS": 285.68649825,
+      "width": 1024,
+      "height": 1024,
+      "bytes": 427940,
+      "format": "webp",
+      "file": "recraft-v4__raster__diagram__1.webp"
+    }
+  ],
+  "finishedAt": "2026-10-25T06:05:45.113Z",
+  "summary": [
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 8.10699987411499,
+      "medianWallS": 9.974604958,
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "width": 448,
+      "height": 592,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "0.5K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 14.38100004196167,
+      "medianWallS": 16.271207125,
+      "vendorUsd": 0.062,
+      "credits": 7936,
+      "width": 592,
+      "height": 448,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 9.825000047683716,
+      "medianWallS": 10.9778575,
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "width": 1200,
+      "height": 896,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "1K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 16.44600009918213,
+      "medianWallS": 17.390652582999994,
+      "vendorUsd": 0.082,
+      "credits": 10496,
+      "width": 896,
+      "height": 1200,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 20.240000009536743,
+      "medianWallS": 20.939226041,
+      "vendorUsd": 0.12,
+      "credits": 15360,
+      "width": 2400,
+      "height": 1792,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "2K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 27.19000005722046,
+      "medianWallS": 27.89186012499999,
+      "vendorUsd": 0.122,
+      "credits": 15616,
+      "width": 2400,
+      "height": 1792,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 32.71500015258789,
+      "medianWallS": 33.356365083,
+      "vendorUsd": 0.16,
+      "credits": 20480,
+      "width": 4800,
+      "height": 3584,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 8.702000141143799,
+      "medianWallS": 9.822472042000008,
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "width": 1200,
+      "height": 896,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2",
+      "config": "4K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 39.24399995803833,
+      "medianWallS": 40.134244750000015,
+      "vendorUsd": 0.162,
+      "credits": 20736,
+      "width": 4800,
+      "height": 3584,
+      "elo": 1140
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking medium",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 13.598999977111816,
+      "medianWallS": 14.555386666000006,
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "width": 1200,
+      "height": 896,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "1K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 16.757999897003174,
+      "medianWallS": 25.121586999999998,
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "width": 1200,
+      "height": 896,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 48.01699995994568,
+      "medianWallS": 49.133249582999994,
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "width": 1792,
+      "height": 2400,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking medium",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 62.40499997138977,
+      "medianWallS": 63.327359625000014,
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "width": 2400,
+      "height": 1792,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "2K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 65.00500011444092,
+      "medianWallS": 65.896722917,
+      "vendorUsd": 0.059,
+      "credits": 7552,
+      "width": 2400,
+      "height": 1792,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 74.29699993133545,
+      "medianWallS": 75.15468366599997,
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "width": 3584,
+      "height": 4800,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking medium",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 91.2829999923706,
+      "medianWallS": 92.37255658300006,
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "width": 4800,
+      "height": 3584,
+      "elo": 1176
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking minimal",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 2.8380000591278076,
+      "medianWallS": 3.8646341660000036,
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "width": 1200,
+      "height": 896
+    },
+    {
+      "model": "nano-banana-2-lite",
+      "config": "thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 6.171000003814697,
+      "medianWallS": 7.031604166000034,
+      "vendorUsd": 0.042,
+      "credits": 5376,
+      "width": 1200,
+      "height": 896
+    },
+    {
+      "model": "nano-banana-2.1",
+      "config": "4K · thinking high",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 80.84100008010864,
+      "medianWallS": 82.20588920899999,
+      "vendorUsd": 0.134,
+      "credits": 17152,
+      "width": 4800,
+      "height": 3584,
+      "elo": 1176
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 8.266000032424927,
+      "medianWallS": 9.061076292000012,
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 8.067999839782715,
+      "medianWallS": 9.335445207999904,
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 11.971999883651733,
+      "medianWallS": 12.726533832999994,
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "low · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 16.60199999809265,
+      "medianWallS": 17.63599354199995,
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 9.997999906539917,
+      "medianWallS": 11.010395499999984,
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 8.924000024795532,
+      "medianWallS": 10.158086624999996,
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 13.216000080108643,
+      "medianWallS": 14.173584957999992,
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "medium · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 15.772000074386597,
+      "medianWallS": 16.531742666999925,
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 17.156999826431274,
+      "medianWallS": 17.976223457999993,
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 13.361999988555908,
+      "medianWallS": 14.163924,
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 21.069999933242798,
+      "medianWallS": 27.48447929099994,
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "high · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 20.32800006866455,
+      "medianWallS": 21.362197540999972,
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 23.536999940872192,
+      "medianWallS": 24.919366625000023,
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 18.503999948501587,
+      "medianWallS": 19.432201916999997,
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 20.15000009536743,
+      "medianWallS": 20.89415262499999,
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "xhigh · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 24.27500009536743,
+      "medianWallS": 25.10928229100001,
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 47.115999937057495,
+      "medianWallS": 47.94391016700003,
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "width": 1024,
+      "height": 1024,
+      "elo": 1207
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 27.881999969482422,
+      "medianWallS": 28.784521749999957,
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "width": 1920,
+      "height": 1088,
+      "elo": 1207
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 32.621999979019165,
+      "medianWallS": 33.29938458399999,
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "width": 2560,
+      "height": 1440,
+      "elo": 1207
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 9.972000122070312,
+      "medianWallS": 10.880079583000043,
+      "vendorUsd": 0.00588,
+      "credits": 753,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "config": "max · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 36.06100010871887,
+      "medianWallS": 37.29778408400004,
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "width": 3840,
+      "height": 2160,
+      "elo": 1207
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 10.207000017166138,
+      "medianWallS": 10.836588875000016,
+      "vendorUsd": 0.00441,
+      "credits": 565,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 12.77999997138977,
+      "medianWallS": 13.768421124999993,
+      "vendorUsd": 0.00615,
+      "credits": 788,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "low · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 17.865000009536743,
+      "medianWallS": 19.32042966600007,
+      "vendorUsd": 0.01113,
+      "credits": 1425,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 12.46399998664856,
+      "medianWallS": 14.040773833000001,
+      "vendorUsd": 0.01317,
+      "credits": 1686,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 14.516000032424927,
+      "medianWallS": 16.424222166,
+      "vendorUsd": 0.01434,
+      "credits": 1836,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 13.966999769210815,
+      "medianWallS": 15.560928290999998,
+      "vendorUsd": 0.01029,
+      "credits": 1318,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "medium · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 20.663999795913696,
+      "medianWallS": 22.675244042000003,
+      "vendorUsd": 0.02595,
+      "credits": 3322,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 21.130000114440918,
+      "medianWallS": 22.68282575,
+      "vendorUsd": 0.0396,
+      "credits": 5069,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 28.24399995803833,
+      "medianWallS": 29.554445416000004,
+      "vendorUsd": 0.05268,
+      "credits": 6744,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 25.579999923706055,
+      "medianWallS": 26.220282167,
+      "vendorUsd": 0.05529,
+      "credits": 7078,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "high · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 31.115999937057495,
+      "medianWallS": 32.373858833,
+      "vendorUsd": 0.10008,
+      "credits": 12811,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 30.04100012779236,
+      "medianWallS": 31.319110332999998,
+      "vendorUsd": 0.07041,
+      "credits": 9013,
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 32.61299991607666,
+      "medianWallS": 33.674559458,
+      "vendorUsd": 0.09828,
+      "credits": 12580,
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 44.30299997329712,
+      "medianWallS": 45.65398075,
+      "vendorUsd": 0.09366,
+      "credits": 11989,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "xhigh · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 35.60700011253357,
+      "medianWallS": 36.441971167,
+      "vendorUsd": 0.1779,
+      "credits": 22772,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "model": "muse-image",
+      "config": "default",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 0,
+      "vendorUsd": 0.01,
+      "credits": 1280,
+      "elo": 1127
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 1920×1088",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 57.437000036239624,
+      "medianWallS": 58.24141070899999,
+      "vendorUsd": 0.1584,
+      "credits": 20276,
+      "width": 1920,
+      "height": 1088,
+      "elo": 1222
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 2560×1440",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 58.13599991798401,
+      "medianWallS": 59.717173041,
+      "vendorUsd": 0.2211,
+      "credits": 28301,
+      "width": 2560,
+      "height": 1440,
+      "elo": 1222
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · 3840×2160",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 58.187000036239624,
+      "medianWallS": 59.013495999999996,
+      "vendorUsd": 0.40026,
+      "credits": 51234,
+      "width": 3840,
+      "height": 2160,
+      "elo": 1222
+    },
+    {
+      "model": "gpt-image-2.5-sunburst",
+      "config": "max · square_hd",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 87.82299995422363,
+      "medianWallS": 88.75525770799999,
+      "vendorUsd": 0.21072,
+      "credits": 26973,
+      "width": 1024,
+      "height": 1024,
+      "elo": 1222
+    },
+    {
+      "model": "recraft-v4",
+      "config": "raster",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 103.8289999961853,
+      "medianWallS": 104.677870834,
+      "vendorUsd": 0.04,
+      "credits": 5120,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "grok-imagine",
+      "config": "1K",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 61.72599983215332,
+      "medianWallS": 62.847833625000014,
+      "vendorUsd": 0.06,
+      "credits": 7680,
+      "width": 1024,
+      "height": 1024,
+      "elo": 1166
+    },
+    {
+      "model": "recraft-v4",
+      "config": "vector",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 108.31200003623962,
+      "medianWallS": 109.37528783300002,
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "model": "grok-imagine",
+      "config": "2K",
+      "runId": "2026-10-25T05-41-52",
+      "n": 3,
+      "ok": 3,
+      "medianInferenceS": 64.64499998092651,
+      "medianWallS": 66.011036042,
+      "vendorUsd": 0.08,
+      "credits": 10240,
+      "width": 2048,
+      "height": 2048,
+      "elo": 1166
+    }
+  ]
+}
